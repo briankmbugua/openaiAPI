@@ -2,7 +2,7 @@
 import openai
 
 # API_KEY = open('API_KEY.txt', 'r').read()
-openai.api_key = "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"
+openai.api_key = <YOUR OPEN API KEY>
 # response = openai.ChatCompletion.create(
 #     model = "gpt-3.5-turbo",
 #     messages = [
